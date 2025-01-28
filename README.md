@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">🤖About Me</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">⚙️Techs</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">📈My Stats</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">🌐Social Media</h2>
 
 ###
 
