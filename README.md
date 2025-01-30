@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖖🏻Hi, there! I am José Fernandes, Information Systems student at UFG and C# apprentice.  I am looking for opportunities in this area and always open to new experiences. Let's connect?</p>
+<p align="left">🖖🏻Hi, there! I'm José Fernandes, Information Systems student at UFG and C# apprentice.  I am looking for opportunities in this area and always open to new experiences. Let's connect?</p>
 
 ###
 
