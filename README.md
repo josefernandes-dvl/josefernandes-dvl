@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">🤖+4 years in the robotics world;   🎖️1st Place + 4 category prizes at GameJam+ 2023; ⚙️Chief Engineer of Eagles (2021-2024);   ✨Fluency in English.</p>
+<p align="left">🤖+4 years of robotic;   🎖️1st Place + 4 category prizes at GameJam+ 2023; ⚙️Chief Engineer of Eagles (2021-2024);   ✨Fluency in English.</p>
 
 ###
 
