@@ -51,6 +51,6 @@
 
 ###
 
-<p align="left">🔍Always open for new experiences. Learn more about me in my Linkedin!</p>
+<p align="left">🔍Always open to new experiences. Learn more about me in my Linkedin!</p>
 
 ###
