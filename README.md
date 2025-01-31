@@ -1,9 +1,9 @@
-<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Information Systems student at UFG and C# Dev. Let's connect?</h2>
+<h2 align="left">🖖🏻Hi! I'm José Fernandes, Information Systems student at UFG and C# Dev. Let's connect?</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josefernandes-dvl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false&custom_title=Coding%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=josefernandes-dvl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefernandes-dvl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
