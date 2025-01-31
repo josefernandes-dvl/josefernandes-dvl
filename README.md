@@ -1,7 +1,3 @@
-<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Information Systems student at UFG and C# Dev.</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josefernandes-dvl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefernandes-dvl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
@@ -44,7 +40,7 @@
   <a href="https://www.linkedin.com/in/josefernandesdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="📧 Me envie um e-mail](mailto:josefernandessn.dev@gmail.com)" target="_blank">
+  <a href="mailto:josefernandessn.dev@gmail.com?subject=Github&body=Ol%C3%A1!+Acessei+sua+conta+no+GitHub+e+achei+muito+interessante..." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -52,5 +48,15 @@
 ###
 
 <p align="left">🔍Looking for opportunities in the coding area. Learn more about me in my linkedin!</p>
+
+###
+
+<p align="left">🤖+4 years of robotic; 🎖️1st Place + 4 category prizes at GameJam+ 2023; ⚙️Chief Engineer of Eagles (2021-24); ✨Fluency in English.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josefernandes-dvl&radius=16&theme=react&area=true&order=5&bg_color=1d252c&line=4d7292&point=4d7292&title_color=4d7292&custom_title=Activity%20Graph" height="350" alt="activity-graph graph"  />
+</div>
 
 ###
