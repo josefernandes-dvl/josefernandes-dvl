@@ -1,4 +1,4 @@
-<h2 align="left">🖖🏻Hi! I'm José Fernandes, Information Systems student at UFG and C# Dev. Let's connect?</h2>
+<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Information Systems student at UFG and C# Dev.</h2>
 
 ###
 
@@ -51,16 +51,6 @@
 
 ###
 
-<p align="left">🔍Looking for opportunities in the coding area and always open to new experiences!</p>
-
-###
-
-<p align="left">🤖+4 years of robotic; 🎖️1st Place + 4 category prizes at GameJam+ 2023; ⚙️Chief Engineer of Eagles (2021-24); ✨Fluency in English.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josefernandes-dvl&radius=16&theme=react&area=true&order=5&bg_color=1d252c&line=4d7292&point=4d7292&title_color=4d7292&custom_title=Activity%20Graph" height="350" alt="activity-graph graph"  />
-</div>
+<p align="left">🔍Always open for new experiences. Learn more about me in my Linkedin!</p>
 
 ###
