@@ -1,3 +1,7 @@
+<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Information Systems student at UFG and C# Dev. Let's connect?</h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josefernandes-dvl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefernandes-dvl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
@@ -47,11 +51,11 @@
 
 ###
 
-<p align="left">🔍Looking for opportunities in the coding area. Learn more about me in my linkedin!</p>
+<p align="left">🔍Looking for opportunities in the coding area and always open to new experiences!</p>
 
 ###
 
-<p align="left">🤖+4 years of robotic; 🎖️1st Place + 4 category prizes at GameJam+ 2023; ⚙️Chief Engineer of Eagles (2021-24); ✨Fluency in English.</p>
+<p align="left">🤖+4 years in the robotics world;   🎖️1st Place + 4 category prizes at GameJam+ 2023; ⚙️Chief Engineer of Eagles (2021-2024);   ✨Fluency in English.</p>
 
 ###
 
