@@ -51,6 +51,6 @@
 
 ###
 
-<p align="left">🔍Looking for opportunities in the coding area and always open to new experiences!</p>
+<p align="left">🔍Looking for opportunities in the coding area. Learn more about me in my linkedin!</p>
 
 ###
