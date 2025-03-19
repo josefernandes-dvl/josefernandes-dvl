@@ -1,7 +1,7 @@
-<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Informational Systems student at UFG and C# Dev.</h2>  
+<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Information Systems student at UFG and C# Dev. Let's connect?</h2>
 
 ###
- 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josefernandes-dvl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefernandes-dvl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
@@ -15,6 +15,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
   <img width="12" />
@@ -44,13 +46,13 @@
   <a href="https://www.linkedin.com/in/josefernandesdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/6/#inbox?compose=new" target="_blank">
+  <a href="mailto:josefernandessn.dev@gmail.com?subject=Github&body=Ol%C3%A1!+Acessei+sua+conta+no+GitHub+e+achei+muito+interessante..." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">🔍Always open to new experiences. See more about me in my Linkedin!</p>
+<p align="left">🔍Looking for opportunities in the coding area and always open to new experiences!</p>
 
 ###
