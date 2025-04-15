@@ -1,4 +1,4 @@
-<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Informational Systems student at UFG and C# Dev. Let's connect?</h2>
+<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Informational Systems student and Sfotware Dev. Let's connect?</h2>
 
 ###
 
