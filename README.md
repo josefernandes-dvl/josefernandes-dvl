@@ -1,4 +1,4 @@
-<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Informational Systems student and Software Dev. Let's connect?</h2>
+<h2 align="left">🖖🏻Hi, there! I'm José Fernandes, Informational Systems student and Web Developer. Let's connect?</h2>
 
 ###
 
